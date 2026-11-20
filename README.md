@@ -69,7 +69,24 @@
 
 ---
 
-## 🧭 章節導覽 (Detailed Documentation)
+## 🔍 讀者導讀：你想了解什麼？看這篇就對了！ (Quick Navigation by Goal)
+
+為了讓您能以最快速度獲取解答，請依據您當前的**需求、角色或遇到的問題**直接點擊對應章節：
+
+| 您的當前需求與情境 (What you are looking for) | 推薦直達章節 | 關鍵收穫 |
+| :--- | :--- | :--- |
+| **「我想宏觀理解系統如何運作、Google Cloud 各服務與 IAM 權限配置」** | 📖 [第 01 章：雲端架構與服務解析](01-architecture-and-cloud-services.md) | 5 大分層架構拓撲圖、服務帳戶授權原則、Firestore / GCS / Cloud Run 職責分配 |
+| **「我想知道有哪些開箱即用的 Skills、MCP 開發者知識庫與核心套件」** | 🛠️ [第 02 章：Skills 與 MCP 資源清單](02-skills-and-mcp-inventory.md) | 11 項 Antigravity 工作流工具、Developer Knowledge MCP、Firebase 與核心套件庫 |
+| **「我想親自動手做！從零寫程式、串接資料庫、多模態影音並部署上雲」** | 🚀 [第 03 章：端到端實戰教學 (14 步完整流程)](03-end-to-end-tutorial.md) | 完整演練：鷹架、CRUD、Memory Bank、Sandbox、Imagen、Omni Video、A2UI、Cloud Run |
+| **「我卡住了！遇到 403 權限錯誤、Protocol 報錯、Omni 叫不動或記憶失效」** | ⚠️ [第 04 章：常見疑難排解與踩坑記錄](04-troubleshooting-and-pitfalls.md) | 實戰遭遇的所有真實 Bug 排解對照表，含即時修復指令與根本原因深度分析 |
+| **「別囉嗦，給我指令！我想快速複製貼上 gcloud、adk 或 ffmpeg 指令」** | ⚡ [第 05 章：實用指令速查手冊 (CLI Cheatsheet)](05-cli-cheatsheet.md) | GCP、ADK、Cloud Run、ffmpeg 高畫質輕量 GIF 轉檔與 GitHub CLI 高頻指令速查 |
+| **「如果我不打算用 Google，這套架構還有用嗎？未來的 AI 應用方向在哪？」** | 💡 [第 06 章：核心概念、跨平台架構與未來應用](06-architecture-concepts-and-future-outlook.md) | 脫離 Google 的 5 大跨雲通用模式、AI 專職分工圖譜、工作流心法與未來 SaaS 趨勢 |
+| **「我想看 Google 官方實驗室的原始教材與 #build-a-frontend 前端指引」** | 🌐 [附錄：官方實驗室互動手冊 (Web)](official-lab-manual.html) ([Markdown 版](official-lab-manual.md)) | 官方 Material 3 互動教學單頁，支援深淺色模式、代碼一鍵複製與目錄快速跳轉 |
+| **「我想直接檢視全套特工的最終成品原始碼與前端實作」** | 🧠 [範例專案：MeetMind 儲存庫](https://github.com/hongyue1213/buildwithgemini-meetmind) | 完整 Agent 原始碼、A2UI 渲染聊天前端、動態展示 GIF 與專案 Brief |
+
+---
+
+## 🧭 詳細章節目錄索引 (Table of Contents)
 
 | 章節 | 文檔名稱 | 涵蓋重點 |
 | :--- | :--- | :--- |
