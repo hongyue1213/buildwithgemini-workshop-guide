@@ -76,7 +76,7 @@
 | 您的當前需求與情境 (What you are looking for) | 推薦直達章節 | 關鍵收穫 |
 | :--- | :--- | :--- |
 | **「我想宏觀理解系統如何運作、Google Cloud 各服務與 IAM 權限配置」** | 📖 [第 01 章：雲端架構與服務解析](01-architecture-and-cloud-services.md) | 5 大分層架構拓撲圖、服務帳戶授權原則、Firestore / GCS / Cloud Run 職責分配 |
-| **「我想知道有哪些開箱即用的 Skills、MCP 開發者知識庫與核心套件」** | 🛠️ [第 02 章：Skills 與 MCP 資源清單](02-skills-and-mcp-inventory.md) | 11 項 Antigravity 工作流工具、Developer Knowledge MCP、Firebase 與核心套件庫 |
+| **「我想取得開箱即用的 Skills 原始檔、自動化腳本、模板程式碼與 MCP 定義」** | 🛠️ [第 02 章：Skills 與 MCP 清單](02-skills-and-mcp-inventory.md) (原始檔：[`skills/`](skills/)、[`mcp/`](mcp/)) | 15+ 項完整 `SKILL.md`、Playwright 錄影腳本、FastAPI 代理模板、`a2ui_utils.py` 與 MCP JSON |
 | **「我想親自動手做！從零寫程式、串接資料庫、多模態影音並部署上雲」** | 🚀 [第 03 章：端到端實戰教學 (14 步完整流程)](03-end-to-end-tutorial.md) | 完整演練：鷹架、CRUD、Memory Bank、Sandbox、Imagen、Omni Video、A2UI、Cloud Run |
 | **「我卡住了！遇到 403 權限錯誤、Protocol 報錯、Omni 叫不動或記憶失效」** | ⚠️ [第 04 章：常見疑難排解與踩坑記錄](04-troubleshooting-and-pitfalls.md) | 實戰遭遇的所有真實 Bug 排解對照表，含即時修復指令與根本原因深度分析 |
 | **「別囉嗦，給我指令！我想快速複製貼上 gcloud、adk 或 ffmpeg 指令」** | ⚡ [第 05 章：實用指令速查手冊 (CLI Cheatsheet)](05-cli-cheatsheet.md) | GCP、ADK、Cloud Run、ffmpeg 高畫質輕量 GIF 轉檔與 GitHub CLI 高頻指令速查 |
@@ -91,7 +91,7 @@
 | 章節 | 文檔名稱 | 涵蓋重點 |
 | :--- | :--- | :--- |
 | **01** | [📖 雲端架構與服務解析](01-architecture-and-cloud-services.md) | 系統詳細架構圖、GCP 託管服務角色表、IAM 服務帳戶綁定、區域劃分 (`us-east1` vs `global`) |
-| **02** | [🛠️ Skills 與 MCP 資源清單](02-skills-and-mcp-inventory.md) | 11 項 Antigravity Skills 全解析、Google 開發者知識庫 MCP、Firebase MCP 與核心套件清單 |
+| **02** | [🛠️ Skills 與 MCP 資源清單](02-skills-and-mcp-inventory.md) ｜ 📂 [原始檔案庫](skills/) | 15+ 項 Antigravity Skills 全解析（含原始 `SKILL.md`、錄影腳本、模板程式碼備份）、Google 開發者知識庫與 Firebase MCP Schema |
 | **03** | [🚀 從零到一端到端實戰教學](03-end-to-end-tutorial.md) | 14 步完整演練：鷹架建置、Firestore、Memory Bank、Sandbox、Imagen、Omni Video、A2UI、Cloud Run、Demo 錄製到開源 |
 | **04** | [⚠️ 常見疑難排解與踩坑記錄](04-troubleshooting-and-pitfalls.md) | Protocol 錯誤排解、Omni Interactions API 呼叫技巧、403 PERMISSION_DENIED 修正、記憶庫參數踩坑 |
 | **05** | [⚡ 實用指令速查手冊 (CLI Cheatsheet)](05-cli-cheatsheet.md) | GCP & IAM、ADK/agents-cli、FastAPI、Cloud Run、ffmpeg 輕量 GIF 轉檔與 GitHub CLI 高頻指令 |
