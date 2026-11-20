@@ -78,6 +78,7 @@
 | **03** | [🚀 從零到一端到端實戰教學](03-end-to-end-tutorial.md) | 14 步完整演練：鷹架建置、Firestore、Memory Bank、Sandbox、Imagen、Omni Video、A2UI、Cloud Run、Demo 錄製到開源 |
 | **04** | [⚠️ 常見疑難排解與踩坑記錄](04-troubleshooting-and-pitfalls.md) | Protocol 錯誤排解、Omni Interactions API 呼叫技巧、403 PERMISSION_DENIED 修正、記憶庫參數踩坑 |
 | **05** | [⚡ 實用指令速查手冊 (CLI Cheatsheet)](05-cli-cheatsheet.md) | GCP & IAM、ADK/agents-cli、FastAPI、Cloud Run、ffmpeg 輕量 GIF 轉檔與 GitHub CLI 高頻指令 |
+| **06** | [💡 核心概念、跨平台架構思維與未來應用](06-architecture-concepts-and-future-outlook.md) | 脫離 Google 生態依然適用的 5 大設計模式、AI 專職分工圖譜、工作流工程心法與未來 SaaS 應用方向 |
 | **附錄** | [🌐 官方實驗室互動手冊 (Web Manual)](official-lab-manual.html) ([Markdown 版](official-lab-manual.md)) | Google 官方「Build with Gemini · Track 3」全流程教學，含環境、存儲、多模態、A2UI、前端建置（#build-a-frontend）與開源發布 |
 
 ---
